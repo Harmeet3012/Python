@@ -1,0 +1,10 @@
+Polish Notaion -> Infix Notation
+Example :- a+b/(d*e)
+
+Reverse Polish Notation -> Postfix Notation
+Exanple :- abde*/+
+
+Order of Sequence
+Exponentiation (^)
+Mul/Div */
+Add/Sub +-
