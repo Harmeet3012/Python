@@ -42,7 +42,8 @@ if ch == 'y':
 
 #keeping only those episodes that needs to be included in the naming process
 keep = list(set(all) - set(drop))
-#print(keep)
+keep.sort()
+print(keep)
 
 # logic for renaming
 ind=0
