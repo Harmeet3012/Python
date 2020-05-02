@@ -4,7 +4,7 @@ Example :- a+b/(d*e)
 Reverse Polish Notation -> Postfix Notation
 Exanple :- abde*/+
 
-Order of Sequence
+Order of Sequence :-
 Exponentiation (^)
 Mul/Div */
 Add/Sub +-
